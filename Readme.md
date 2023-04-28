@@ -10,6 +10,21 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Environment Variable
+
+Cafe Square One
+- `SHORT_URL`: cafe-square-one
+- `GUID`: f45640aa-3350-4e46-81a4-1712171ad916
+
+Eggcellent
+- `SHORT_URL`: eggcellent
+- `GUID`: 8e50a1c4-8c0b-46d5-aeb0-ff222be50152
+
+```
+export SHORT_URL=eggcellent
+export GUID="8e50a1c4-8c0b-46d5-aeb0-ff222be50152"
+```
+
 
 ## Import Menu
 
